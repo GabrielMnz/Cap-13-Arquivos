@@ -1,0 +1,15 @@
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net6.0\Manipulando_Arquivos.exe
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net6.0\Manipulando_Arquivos.deps.json
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net6.0\Manipulando_Arquivos.runtimeconfig.json
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net6.0\Manipulando_Arquivos.dll
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net6.0\Manipulando_Arquivos.pdb
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\Manipulando_Arquivos.csproj.AssemblyReference.cache
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\Manipulando_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\Manipulando_Arquivos.AssemblyInfoInputs.cache
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\Manipulando_Arquivos.AssemblyInfo.cs
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\Manipulando_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\Manipulando_Arquivos.dll
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\refint\Manipulando_Arquivos.dll
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\Manipulando_Arquivos.pdb
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\Manipulando_Arquivos.genruntimeconfig.cache
+C:\Users\style\source\repos\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net6.0\ref\Manipulando_Arquivos.dll
